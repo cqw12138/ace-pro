@@ -1,5 +1,5 @@
 {
-  "name": "snapkite-engine",
+  "name": "snapterest",
   "version": "0.1.2",
   "description": "Filter mobile photos posted on Twitter.",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/snapkite/snapkite-engine.git"
+    "url": "git+https://github.com/snapkite/snapkite-engine.git"
   },
   "keywords": [
     "snapkite",
@@ -25,5 +25,7 @@
     "mongoose": "^3.8.22",
     "node-tweet-stream": "^1.6.0",
     "socket.io": "^1.3.2"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {}
 }
