@@ -1,0 +1,38 @@
+Consumer Key (API Key)	vu33R3WiTWX52bqPmhpOeQec1
+Consumer Secret (API Secret)	FGwiG1WnZPTRLeIZONiKOBjFbbvobCLM8khk5f3m7KD4O06B7b
+Access Level	Read and write (modify app permissions)
+Owner	cqw12138
+Owner ID	889692142502723584
+
+
+
+Your Access Token
+This access token can be used to make API requests on your own account's behalf. Do not share your access token secret with anyone.
+Access Token	889692142502723584-FhXKZGjn5IW1KpUqG6fC0QoFqgajNFX
+Access Token Secret	V1B6VqywSNPXcvHALPaUF8Z9gtVPSqxF2FCt02q527VRw
+Access Level	Read and write
+Owner	cqw12138
+Owner ID	889692142502723584
+
+
+
+https://dev.twitter.com/streaming
+
+https://dev.twitter.com/streaming/reference/post/statuses/filter
+
+git clone https://github.com/snapkite/snapkite-engine.git
+
+https://github.com/Too TallNate/node-gyp#installation
+
+cnpm install --global node-gyp
+
+
+git clone https://github.com/snapkite/snapkite-filter-is-possibly-sensitive.git
+git clone https://github.com/snapkite/snapkite-filter-has-mobile-photo.git
+git clone https://github.com/snapkite/snapkite-filter-is-retweet.git
+git clone https://github.com/snapkite/snapkite-filter-has-text.git
+
+copy snapkite-filter-has-mobile-photo\example.config.json snapkite-filter-has-mobile-photo\config.json
+copy snapkite-filter-is-retweet\example.config.json snapkite-filter-is-retweet\config.json
+copy snapkite-filter-has-text\example.config.json snapkite-filter-has-text\config.json
+
